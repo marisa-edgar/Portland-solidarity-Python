@@ -1,5 +1,6 @@
 # Visual Studio Code # 
 /.vscode
+.vscode/* 
 !.vscode/settings.json 
 !.vscode/tasks.json 
 !.vscode/launch.json 
@@ -35,6 +36,4 @@ media
 
 # Backup files # 
 *.bak 
-portland_solidarity_app/settings.py
-
 /portland_solidarity_app/settings.py
