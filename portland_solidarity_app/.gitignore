@@ -32,8 +32,9 @@ parts/
 __pycache__
 db.sqlite3
 media
-./settings.py
-
 
 # Backup files # 
-*.bak portland_solidarity_app/settings.py
+*.bak 
+portland_solidarity_app/settings.py
+
+/portland_solidarity_app/settings.py
