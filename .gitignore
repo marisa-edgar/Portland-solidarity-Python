@@ -35,3 +35,6 @@ media
 
 # Backup files # 
 *.bak 
+portland_solidarity_app/settings.py
+
+/portland_solidarity_app/settings.py
