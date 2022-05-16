@@ -12,6 +12,7 @@
 
 # Environments 
 .env 
+/venv
 
 # pyenv 
 .python-version 
@@ -36,4 +37,4 @@ media
 
 # Backup files # 
 *.bak 
-/portland_solidarity_app/settings.py
+/psia/settings.py
